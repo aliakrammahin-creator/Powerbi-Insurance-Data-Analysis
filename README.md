@@ -14,6 +14,9 @@ The report allows users to explore insurance data through interactive visualizat
 - Enable detailed policy-level analysis using drill-through.
 - Restrict report access using Row-Level Security (RLS).
 
+## Dataset used
+https://github.com/aliakrammahin-creator/Powerbi-Insurance-Data-Analysis/blob/main/InsuranceData.csv
+
 ## Dashboard Features
 - KPI Cards
   - Total Premium Amount
